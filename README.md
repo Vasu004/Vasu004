@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align="center">
+    <h1>Hi, I'm Shivansh Shukla!</h1>
+    <h3>Cyber Enthusiast | Front End Learner</h3>
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="400">
+</div>
 
-<!--
-**Vasu004/Vasu004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    I'm currently exploring the world of Front End Development.
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+    <h3>Connect with Me:</h3>
+    <a href="https://www.linkedin.com/in/shivansh-shukla-671947222/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+    </a>
+    <a href="https://www.instagram.com/_.vasu2004._/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+    <h3>Languages and Tools:</h3>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
+        
+   
+</div>
+
