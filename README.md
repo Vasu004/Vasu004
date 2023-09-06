@@ -18,8 +18,11 @@
     </a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vasu004)](https://git.io/streak-stats)
-
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Vasu004" alt="GitHub Streak" style="max-width: 100%;">
+    </a>
+</div>
 
 <br>
 
@@ -33,7 +36,5 @@
     </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-        
-   
+    </a>
 </div>
-
