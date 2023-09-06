@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-    I'm currently exploring the world of Front End Development.
+    I'm currently exploring the world of Cyber Security.
 </p>
 
 <div align="center">
@@ -17,6 +17,9 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
     </a>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vasu004)](https://git.io/streak-stats)
+
 
 <br>
 
