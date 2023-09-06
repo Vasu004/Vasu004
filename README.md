@@ -19,9 +19,7 @@
 </div>
 
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Vasu004" alt="GitHub Streak" style="max-width: 100%;">
-    </a>
+    <img src="https://streak-stats.demolab.com/?user=Vasu004" alt="GitHub Streak" style="max-width: 100%;">
 </div>
 
 <br>
