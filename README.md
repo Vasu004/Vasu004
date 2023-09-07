@@ -4,9 +4,9 @@
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="400">
 </div>
 
-<p align="center">
+<h2 align="center">
     I'm currently exploring the world of Cyber Security.
-</p>
+</h2>
 
 <div align="center">
     <h3>Connect with Me:</h3>
