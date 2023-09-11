@@ -1,13 +1,13 @@
-<div align="center">
-    <h1>Hi, I'm Shivansh Shukla!</h1>
-    <h3>Cyber Enthusiast | Front End Learner</h3>
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="400">
-</div>
-
-<h2 align="center">
-    I'm currently exploring the world of Cyber Security.
-</h2>
-
+### Hi there 👋<!- I am Shivansh Shukla
+- 🔭 I’m currently working on ... Personal Finance Tracker
+- 🌱 I’m currently learning ...  Pen Testing Fundamentals
+- 👯 I’m looking to collaborate on ... Web Vulnerablility Exploit
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... Java , DSA , CyberSecurity
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <div align="center">
     <h3>Connect with Me:</h3>
     <a href="https://www.linkedin.com/in/shivansh-shukla-671947222/" target="_blank">
