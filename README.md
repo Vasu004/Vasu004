@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi, I'm Shivansh Shukla!</h1>
-    <h3>Cyber Enthusiast | Front End Learner</h3>
+    <h3>Cyber Security Enthusiast</h3>
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="400">
 </div>
 
