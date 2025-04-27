@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-    I'm currently exploring the world of Cyber Security.
+   Learning
 </h2>
 
 <div align="center">
