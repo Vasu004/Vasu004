@@ -1,6 +1,5 @@
 <div align="center">
     <h1>Hi, I'm Shivansh Shukla!</h1>
-   
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="400">
 </div>
 
